@@ -4,7 +4,8 @@
 
 /**
  * main - Entry point
- * Return 0 (success)
+ * Description: software is eating the world
+ * Return: 0 (success)
  */
 
 int main(void)
